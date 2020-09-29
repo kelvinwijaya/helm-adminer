@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: 766423611572.dkr.ecr.ap-southeast-1.amazonaws.com/t-gt-cstack-kelvin/docker-adminer
   tag: 4.7.7-standalone
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   pullSecrets: []
 
 # See envs from https://hub.docker.com/_/adminer/
