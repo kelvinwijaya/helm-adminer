@@ -16,7 +16,7 @@ keywords:
   - database
   - sql
 source:
-  - https://github.com/cetic/helm-adminer
+  - https://github.com/kelvinwijaya/helm-adminer
 maintainers:
   - name: alexnuttinck
     email: alexandre.nuttinck@cetic.be
